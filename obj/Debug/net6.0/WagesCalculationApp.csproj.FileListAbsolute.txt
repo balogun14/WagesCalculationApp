@@ -1,0 +1,15 @@
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.csproj.AssemblyReference.cache
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.AssemblyInfoInputs.cache
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.AssemblyInfo.cs
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/bin/Debug/net6.0/WagesCalculationApp
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/bin/Debug/net6.0/WagesCalculationApp.deps.json
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/bin/Debug/net6.0/WagesCalculationApp.runtimeconfig.json
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/bin/Debug/net6.0/WagesCalculationApp.dll
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/bin/Debug/net6.0/WagesCalculationApp.pdb
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.dll
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/refint/WagesCalculationApp.dll
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.pdb
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/WagesCalculationApp.genruntimeconfig.cache
+/home/awwal/Desktop/C#_Projects/WagesCalculationApp/obj/Debug/net6.0/ref/WagesCalculationApp.dll
